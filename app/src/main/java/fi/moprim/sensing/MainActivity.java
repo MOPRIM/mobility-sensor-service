@@ -1,7 +1,9 @@
-package fi.moprim.tmd.mobilitysensorservice;
+package fi.moprim.sensing;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import fi.moprim.tmd.mobilitysensorservice.R;
 
 public class MainActivity extends AppCompatActivity {
 

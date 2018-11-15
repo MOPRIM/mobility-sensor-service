@@ -1,4 +1,4 @@
-package fi.moprim.tmd.mobilitysensorservice;
+package fi.moprim.sensing.service;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("fi.moprim.tmd.mobilitysensorservice", appContext.getPackageName());
+        assertEquals("fi.moprim.sensing.service.test", appContext.getPackageName());
     }
 }

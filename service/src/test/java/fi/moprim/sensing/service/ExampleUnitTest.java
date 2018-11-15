@@ -1,4 +1,4 @@
-package fi.moprim.tmd.mobilitysensorservice;
+package fi.moprim.sensing.service;
 
 import org.junit.Test;
 
